@@ -18,3 +18,12 @@
 ## 运行时截图
 
 ![image](https://user-images.githubusercontent.com/35026496/135222700-5354e6a9-e936-41d0-990d-f4811e61f2ce.png)
+
+
+## TODO
+
++ 客户端操作 UI 化
++ 蛇身使用颜色区分玩家
++ 对蛇头加颜色区分
++ 限制回头
++ 蛇吃自己判断
